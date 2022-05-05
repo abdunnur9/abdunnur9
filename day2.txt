@@ -1,0 +1,2 @@
+this is day2.this is data for day2.git restor .
+git restore
